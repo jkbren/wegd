@@ -1,8 +1,8 @@
 # wegd: The within-ensemble graph distance
-Python code for calculating *within-ensemble graph distance* between networks
-sampled iidly from a given graph ensemble, under a number of graph distances.
+Python code for calculating the *within-ensemble graph distance* between networks
+sampled from a given graph ensemble, under a number of graph distances.
 
-This code accompanies the recent paper: 
+This code accompanies the paper: 
 
 **Network comparison and the within-ensemble graph distance**\
 Harrison Hartle, Brennan Klein, Stefan McCabe, Guillaume St-Onge,
@@ -18,19 +18,17 @@ Charles Murphy, Alexander Daniels, and Laurent Hébert-Dufresne.
 
 ## Analysis and Notebooks (works in progress...)
 
-1. [example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
-2. [sample code to run on the cluster, soft configuration model](https://github.com/jkbren/wegd/blob/master/cluster/wegd-scm-gamma.py)
+1. [An example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
+2. [Sample code for batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/wegd-scm-gamma.py)
 
 
 ## Requirements  <a name="requirements"/>
 
 This code is written in [Python 3.x](https://www.python.org) and uses 
-the following packages:
+the standard Python scientific computing stack and [netrd](https://github.com/netsiphd/netrd/)
+for implementations of the graph distances.
 
-* [NetworkX](https://networkx.github.io)
-* [Scipy](http://www.scipy.org/)
-* [Numpy](http://numpy.scipy.org/)
-* and for the graph distances, we use [netrd](https://github.com/netsiphd/netrd/)
+The specific dependencies are documented in `requirements.txt`.
 
 ## Citation   <a name="citation"/>
 
