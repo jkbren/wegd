@@ -18,8 +18,8 @@ Charles Murphy, Alexander Daniels, and Laurent Hébert-Dufresne.
 
 ## Analysis and Notebooks (works in progress...)
 
-1. [example](https://github.com/jkbren/wegd/blob/master/pipeline.ipynb)
-2. etc.
+1. [example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
+2. [sample code to run on the cluster, soft configuration model](https://github.com/jkbren/wegd/blob/master/cluster/wegd-scm-gamma.py)
 
 
 ## Requirements  <a name="requirements"/>
