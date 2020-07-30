@@ -1,0 +1,4 @@
+networkx>=2.2
+scipy>=1.0
+numpy>=1.16
+netrd>=0.2.1
