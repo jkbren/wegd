@@ -4,21 +4,21 @@ sampled iidly from a given graph ensemble, under a number of graph distances.
 
 This code accompanies the recent paper: 
 
-**The within-ensemble graph distance**\
+**Network comparison and the within-ensemble graph distance**\
 Harrison Hartle, Brennan Klein, Stefan McCabe, Guillaume St-Onge,
 Charles Murphy, Alexander Daniels, and Laurent Hébert-Dufresne.
 
 - - - -
 
 <p align="center">
-<img src="figs/pngs/GraphWEnD_example.png" alt="example RGG ER" width="95%"/>
+<img src="figs/pngs/gnp_rgg_wegd_p_n500.png" alt="example RGG ER" width="95%"/>
 </p>
 
 **<p align="center">Fig. 1: Mean within-ensemble distances for each distance measure tested.**
 
 ## Analysis and Notebooks (works in progress...)
 
-1. [pipeline](https://github.com/jkbren/GraphWEnD/blob/master/pipeline.ipynb)
+1. [example](https://github.com/jkbren/wegd/blob/master/pipeline.ipynb)
 2. etc.
 
 
