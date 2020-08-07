@@ -35,7 +35,7 @@ The specific dependencies are documented in `requirements.txt`.
 
 If you use these methods and this code in your own research, please cite our paper:
 
-Hartle, H., Klein, B., McCabe, S., St-Onge, G., Murphy, C., Daniels, A.,
+Hartle, H., Klein, B., McCabe, S., Daniels, A., St-Onge, G., Murphy, C.,
 and Hébert-Dufresne, L. (2020).
 **Network comparison and the within-ensemble graph distance.**
 
