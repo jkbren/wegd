@@ -5,8 +5,9 @@ sampled from a given graph ensemble, under a number of graph distances.
 This code accompanies the paper: 
 
 **Network comparison and the within-ensemble graph distance**\
-Harrison Hartle, Brennan Klein, Stefan McCabe, Guillaume St-Onge,
-Charles Murphy, Alexander Daniels, and Laurent Hébert-Dufresne.
+Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels,
+Guillaume St-Onge, Charles Murphy, and Laurent Hébert-Dufresne.
+https://arxiv.org/abs/2008.02415
 
 - - - -
 
@@ -42,8 +43,8 @@ Bibtex:
 ```text
 @article{hartle2020wegd,
   title = {Network comparison and the within-ensemble graph distance},
-  author = {Harrison Hartle and Brennan Klein and Stefan McCabe and Guillaume St. Onge and Charles Murphy and Alexander Daniels and Laurent Hébert-Dufresne},
-  journal = {arXiv preprint XXX},
+  author = {Harrison Hartle and Brennan Klein and Stefan McCabe and Alexander Daniels and Guillaume St. Onge and Charles Murphy and Laurent Hébert-Dufresne},
+  journal = {arXiv preprint 2008.02415},
   year = {2020}
 }
 ```
