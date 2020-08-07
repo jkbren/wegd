@@ -17,7 +17,7 @@ https://arxiv.org/abs/2008.02415
 
 **<p align="center">Fig. 1: Mean within-ensemble distances for each distance measure tested.**
 
-## Analysis and Notebooks (works in progress...)
+## Analysis and Notebooks
 
 1. [An example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
 2. [Sample code for batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/wegd-scm-gamma.py)
