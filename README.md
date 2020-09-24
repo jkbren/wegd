@@ -20,7 +20,7 @@ https://arxiv.org/abs/2008.02415
 ## Analysis and Notebooks
 
 1. [An example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
-2. [Sample code for batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/wegd-scm-gamma.py)
+2. [Sample code for batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/)
 
 
 ## Requirements  <a name="requirements"/>
