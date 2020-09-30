@@ -3,6 +3,7 @@ import numpy as np
 import networkx as nx
 import sys
 from netrd.distance import *
+from graph_diffusion import GraphDiffusion
 import pandas as pd
 
 import warnings
