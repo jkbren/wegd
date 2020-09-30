@@ -18,8 +18,8 @@ Submitted as part of the 2019 NetSI Collabathon.
 import numpy as np
 import networkx as nx
 from scipy.sparse.csgraph import laplacian
-from .base import BaseDistance
-from ..utilities import undirected
+from netrd.distance import BaseDistance
+from netrd.utilities import undirected
 
 
 class GraphDiffusion(BaseDistance):
