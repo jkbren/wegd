@@ -48,3 +48,8 @@ Bibtex:
   year = {2020}
 }
 ```
+
+## License
+
+This code is available for academic use only. However, much of the work is done by the
+netrd library, which is available under an MIT license.
