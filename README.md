@@ -1,6 +1,6 @@
 # wegd: The within-ensemble graph distance
 Python code for calculating the *within-ensemble graph distance* between networks
-sampled from a given graph ensemble, under a number of graph distances.
+sampled from a given graph ensemble, for various graph distances.
 
 This code accompanies the paper: 
 
@@ -19,8 +19,9 @@ https://arxiv.org/abs/2008.02415
 
 ## Analysis and Notebooks
 
-1. [An example](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
-2. [Sample code for batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/)
+1. [A notebook illustrating usage of the code](https://github.com/jkbren/wegd/blob/master/code/wegd-example.ipynb)
+2. [Code for replicating the paper's batch experiments on a computing cluster](https://github.com/jkbren/wegd/blob/master/cluster/)
+3. [A notebook creating the figures of the paper](https://github.com/jkbren/wegd/blob/master/code/make-all-plots.ipynb) using our [replication data](https://github.com/jkbren/wegd/tree/master/data).
 
 
 ## Requirements  <a name="requirements"/>
