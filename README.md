@@ -35,17 +35,19 @@ The specific dependencies are documented in `requirements.txt`.
 
 If you use these methods and this code in your own research, please cite our paper:
 
-Hartle, H., Klein, B., McCabe, S., Daniels, A., St-Onge, G., Murphy, C.,
-and Hébert-Dufresne, L. (2020).
+Hartle H., Klein B., McCabe S., Daniels A., St-Onge G., Murphy C.,
+and Hébert-Dufresne L. (2020).
 **Network comparison and the within-ensemble graph distance.**
+*Proc. R. Soc. A* 20190744. http://dx.doi.org/10.1098/rspa.2019.0744
 
 Bibtex: 
 ```text
 @article{hartle2020wegd,
   title = {Network comparison and the within-ensemble graph distance},
   author = {Harrison Hartle and Brennan Klein and Stefan McCabe and Alexander Daniels and Guillaume St. Onge and Charles Murphy and Laurent Hébert-Dufresne},
-  journal = {arXiv preprint 2008.02415},
-  year = {2020}
+  journal = {Proceedings of the Royal Society A},
+  year = {2020},
+  doi = {10.1098/rspa.2019.0744}
 }
 ```
 
